@@ -2,6 +2,8 @@
 
 A Data Analyst project visualizing supply chain metrics using Streamlit, Python, and MySQL.
 
+Deployed webpage version can be accessed from here https://supply-chain-data-dashboarding-with-mysql-cloud-backend.streamlit.app/
+
 ## Features
 - **KPIs**: Total Revenue, Average Lead Time, Total Products Sold.
 - **Visualizations**:
